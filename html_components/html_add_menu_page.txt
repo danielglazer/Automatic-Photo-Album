@@ -1,2 +1,0 @@
-
-<li><a href=" %%menu_page_link%% ">%%menu_page_name%%</a></li>

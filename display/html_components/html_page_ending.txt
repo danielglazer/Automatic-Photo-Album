@@ -1,0 +1,40 @@
+
+            </div>
+            </div>
+           </div>
+        </div>
+    
+
+	<footer id="fh5co-footer">
+		<div class="container">
+			<div class="row row-padded">
+				<div class="col-md-12 text-center">
+					<p class="fh5co-social-icons">
+						<a href="#"><i class="icon-feather"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+
+	<!-- jQuery -->
+	<script src="../../display/js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="../../display/js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="../../display/js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="../../display/js/jquery.waypoints.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="../../display/js/jquery.magnific-popup.min.js"></script>
+	<!-- Salvattore -->
+	<script src="../../display/js/salvattore.min.js"></script>
+	<!-- Main JS -->
+	<script src="../../display/js/main.js"></script>
+
+	
+
+	
+	</body>
+</html>
