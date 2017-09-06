@@ -265,15 +265,18 @@
          </widget>
         </item>
         <item>
-         <widget class="QProgressBar" name="progressBar">
+         <widget class="QLabel" name="status">
           <property name="font">
            <font>
+            <pointsize>10</pointsize>
             <weight>75</weight>
             <bold>true</bold>
+            <underline>true</underline>
+            <strikeout>false</strikeout>
            </font>
           </property>
-          <property name="value">
-           <number>24</number>
+          <property name="text">
+           <string>Status : Standby</string>
           </property>
          </widget>
         </item>
