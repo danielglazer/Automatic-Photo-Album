@@ -1,0 +1,7 @@
+            
+                        <div class="item">
+                            <div class="animate-box">
+                                <a href=" %%img_ref%% " class="image-popup fh5co-board-img" title=" "><img src=" %%img_path%% "></a>
+                            </div>
+                        </div>
+        

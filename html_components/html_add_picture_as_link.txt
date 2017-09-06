@@ -1,0 +1,7 @@
+            
+                        <div class="item">
+                            <div class="animate-box">
+                                <li><a href=" %%img_ref%% "><img src=" %%img_path%% "></a></li>
+                            </div>
+                        </div>
+        
